@@ -1,0 +1,1 @@
+print("This is my first repository which I created on RStudio and is linked to GitHub.")
